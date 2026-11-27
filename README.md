@@ -64,3 +64,6 @@ Open `http://localhost:3000` in your browser.
 This project was created for learning and experimentation.
 Clerk Billing is used in development mode for testing subscriptions.
 AI-generated business ideas are not validated market research.
+
+## Credit
+Based on AI Engineer Course by Ed Donner
